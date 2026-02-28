@@ -152,6 +152,7 @@ html {
   margin: 0;
   line-height: 0.92;
   letter-spacing: -0.03em;
+  padding-bottom: 5px;
 }
 
 .t2h-title-line {
