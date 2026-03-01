@@ -51,7 +51,7 @@
   display: flex;
   align-items: center;
   gap: 14px;
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.62rem;
   font-weight: 300;
   letter-spacing: 0.30em;
@@ -72,7 +72,7 @@
 }
 
 .cnt-title {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 3.6rem;
   font-weight: 300;
   color: #2C2420;
@@ -92,7 +92,7 @@
 }
 
 .cnt-subtitle {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.90rem;
   font-weight: 300;
   color: rgba(44,36,32,0.55);
@@ -114,7 +114,7 @@
   display: inline-block;
   padding: 14px 40px;
   text-decoration: none;
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.75rem;
   font-weight: 400;
   letter-spacing: 0.12em;
@@ -134,7 +134,7 @@
   display: inline-block;
   padding: 13px 40px;
   text-decoration: none;
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.75rem;
   font-weight: 300;
   letter-spacing: 0.12em;
@@ -211,7 +211,7 @@
 }
 
 .cnt-item-label {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.60rem;
   font-weight: 300;
   letter-spacing: 0.15em;
@@ -221,7 +221,7 @@
 }
 
 .cnt-item-value {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.88rem;
   font-weight: 300;
   color: rgba(44,36,32,0.80);
@@ -247,7 +247,7 @@
 }
 
 .cnt-socials-label {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.60rem;
   font-weight: 300;
   letter-spacing: 0.15em;
@@ -271,7 +271,7 @@
   background: rgba(184,149,106,0.03);
   color: rgba(44,36,32,0.50);
   text-decoration: none;
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.72rem;
   font-weight: 300;
   letter-spacing: 0.06em;
@@ -297,7 +297,7 @@
 }
 
 .cnt-footer-text {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.68rem;
   font-weight: 300;
   color: rgba(44,36,32,0.32);

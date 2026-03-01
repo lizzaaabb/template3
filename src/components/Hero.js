@@ -48,7 +48,7 @@ export default function Hero() {
       const wireMat = new THREE.LineBasicMaterial({
         color: 0xB8956A,
         transparent: true,
-        opacity: 0.56,
+        opacity: 0.86,
         blending: THREE.AdditiveBlending,
         depthWrite: false,
       })
@@ -61,7 +61,7 @@ export default function Hero() {
       const wireMat2 = new THREE.LineBasicMaterial({
         color: 0xD4AF82,
         transparent: true,
-        opacity: 0.22,
+        opacity: 0.42,
         blending: THREE.AdditiveBlending,
         depthWrite: false,
       })

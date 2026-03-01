@@ -51,7 +51,7 @@
   display: flex;
   align-items: center;
   gap: 10px;
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.62rem;
   font-weight: 300;
   letter-spacing: 0.30em;
@@ -77,7 +77,7 @@
 }
 
 .a2-title {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 3.4rem;
   font-weight: 300;
   color: #2C2420;
@@ -102,7 +102,7 @@
 }
 
 .a2-desc {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.88rem;
   font-weight: 300;
   color: rgba(44,36,32,0.55);
@@ -128,7 +128,7 @@
 .a2-stat:last-child  { border-right: none; }
 
 .a2-stat-val {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 2rem;
   font-weight: 600;
   margin: 0 0 4px 0;
@@ -140,7 +140,7 @@
 }
 
 .a2-stat-lbl {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.60rem;
   font-weight: 300;
   color: rgba(44,36,32,0.38);
@@ -229,7 +229,7 @@
 }
 
 .a2-card-index {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.56rem;
   font-weight: 300;
   letter-spacing: 0.25em;
@@ -251,7 +251,7 @@
 }
 
 .a2-card-title {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.80rem;
   font-weight: 400;
   color: #2C2420;
@@ -261,7 +261,7 @@
 }
 
 .a2-card-desc {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.80rem;
   font-weight: 300;
   color: rgba(44, 36, 32, 0.691);

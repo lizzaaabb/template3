@@ -49,7 +49,7 @@
   display: flex;
   align-items: center;
   gap: 10px;
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.62rem;
   font-weight: 300;
   letter-spacing: 0.30em;
@@ -75,7 +75,7 @@
 }
 
 .s2-title {
-  font-family: 'Cormorant Garamond', serif;
+  
   font-size: 3.4rem;
   font-weight: 300;
   color: #2C2420;
@@ -201,7 +201,7 @@
 }
 
 .s2-card-index {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.56rem;
   font-weight: 300;
   letter-spacing: 0.25em;
@@ -213,8 +213,8 @@
 .s2-card:hover .s2-card-index { color: #B8956A; }
 
 .s2-card-title {
-  font-family: 'DM Sans', sans-serif;
-  font-size: 0.95rem;
+  font-family: "Noto Sans Georgian", sans-serif;
+  font-size: 1rem;
   font-weight: 400;
   color: #2C2420;
   margin: 0;
@@ -222,10 +222,10 @@
 }
 
 .s2-card-desc {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "Noto Sans Georgian", sans-serif;
   font-size: 0.85rem;
   font-weight: 300;
-  color: rgba(44, 36, 32, 0.68);
+  color: rgba(44, 36, 32, 0.883);
   line-height: 1.75;
   margin: 0;
 }
@@ -237,11 +237,11 @@
 }
 
 .s2-tag {
-  font-family: 'DM Sans', sans-serif;
-  font-size: 0.60rem;
+  font-family: "Noto Sans Georgian", sans-serif;
+  font-size: 0.70rem;
   font-weight: 300;
   letter-spacing: 0.08em;
-  color: rgba(140,110,72,0.60);
+  color: rgba(95, 76, 51, 0.838);
   padding: 3px 10px;
   border-radius: 100px;
   border: 1px solid rgba(184,149,106,0.18);
