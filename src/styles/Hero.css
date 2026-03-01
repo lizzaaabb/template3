@@ -152,13 +152,14 @@ html {
   margin: 0;
   line-height: 0.92;
   letter-spacing: -0.03em;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
+  overflow: visible;
 }
 
 .t2h-title-line {
   display: block;
   overflow: hidden;
-  padding-bottom: 0.09em;
+  padding-bottom: 0.19em;
   font-family: 'Cormorant Garamond', serif;
   font-size: 6.4rem;
   font-weight: 300;
