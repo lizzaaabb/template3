@@ -523,3 +523,11 @@ html {
   .t2h-grad-italic,
   .t2h-outlined { font-size: 2.8rem; }
 }
+
+.t2h-grad-italic{
+  padding-right: 5px;
+}
+
+.t2h-outlined{
+  padding-bottom: 5px;
+}
